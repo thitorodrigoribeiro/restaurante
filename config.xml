@@ -38,10 +38,6 @@
     <icon src="resources\android\icon\drawable-xxhdpi-icon.png" density="xxhdpi"/>
     <icon src="resources\android\icon\drawable-xxxhdpi-icon.png" density="xxxhdpi"/>
   </platform>
-  <platform name="ios">
-    <allow-intent href="itms:*"/>
-    <allow-intent href="itms-apps:*"/>
-  </platform>
   <preference name="SplashScreen" value="screen"/>
   <preference name="SplashScreenDelay" value="3000"/>
   <icon src="resources\android\icon\drawable-xhdpi-icon.png"/>
